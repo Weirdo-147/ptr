@@ -1,0 +1,3252 @@
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Already on 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323032'
+[pull-shark-1740323032 adfa4bd] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323032' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323032        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323032 -> pull-shark-1740323032
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323032"
+error: cannot delete branch 'pull-shark-1740323032' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323044'
+[pull-shark-1740323044 4055f85] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323044' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323044        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323044 -> pull-shark-1740323044
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323044"
+error: cannot delete branch 'pull-shark-1740323044' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323054'
+[pull-shark-1740323054 3d53a37] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323054' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323054        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323054 -> pull-shark-1740323054
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323054"
+error: cannot delete branch 'pull-shark-1740323054' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323063'
+[pull-shark-1740323063 2b78d15] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323063' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323063        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323063 -> pull-shark-1740323063
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323063"
+error: cannot delete branch 'pull-shark-1740323063' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323073'
+[pull-shark-1740323073 7fa4c97] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323073' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323073        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323073 -> pull-shark-1740323073
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323073"
+error: cannot delete branch 'pull-shark-1740323073' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323084'
+[pull-shark-1740323084 0c2b5f8] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323084' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323084        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323084 -> pull-shark-1740323084
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323084"
+error: cannot delete branch 'pull-shark-1740323084' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323093'
+[pull-shark-1740323093 355e4b3] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323093' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323093        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323093 -> pull-shark-1740323093
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323093"
+error: cannot delete branch 'pull-shark-1740323093' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323102'
+[pull-shark-1740323102 ea1f8c4] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323102' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323102        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323102 -> pull-shark-1740323102
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323102"
+error: cannot delete branch 'pull-shark-1740323102' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323112'
+[pull-shark-1740323112 82a09b7] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323112' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323112        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323112 -> pull-shark-1740323112
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323112"
+error: cannot delete branch 'pull-shark-1740323112' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323121'
+[pull-shark-1740323121 446633b] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323121' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323121        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323121 -> pull-shark-1740323121
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323121"
+error: cannot delete branch 'pull-shark-1740323121' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323131'
+[pull-shark-1740323131 9e12120] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323131' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323131        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323131 -> pull-shark-1740323131
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323131"
+error: cannot delete branch 'pull-shark-1740323131' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323140'
+[pull-shark-1740323140 2ff3927] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323140' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323140        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323140 -> pull-shark-1740323140
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323140"
+error: cannot delete branch 'pull-shark-1740323140' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323149'
+[pull-shark-1740323149 a08e453] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323149' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323149        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323149 -> pull-shark-1740323149
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323149"
+error: cannot delete branch 'pull-shark-1740323149' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323158'
+[pull-shark-1740323158 5cf4346] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323158' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323158        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323158 -> pull-shark-1740323158
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323158"
+error: cannot delete branch 'pull-shark-1740323158' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323168'
+[pull-shark-1740323168 6fdfed0] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323168' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323168        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323168 -> pull-shark-1740323168
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323168"
+error: cannot delete branch 'pull-shark-1740323168' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323177'
+[pull-shark-1740323177 6759a83] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323177' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323177        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323177 -> pull-shark-1740323177
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323177"
+error: cannot delete branch 'pull-shark-1740323177' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323187'
+[pull-shark-1740323187 f3487c4] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323187' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323187        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323187 -> pull-shark-1740323187
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323187"
+error: cannot delete branch 'pull-shark-1740323187' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323196'
+[pull-shark-1740323196 a4cffc1] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323196' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323196        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323196 -> pull-shark-1740323196
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323196"
+error: cannot delete branch 'pull-shark-1740323196' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323206'
+[pull-shark-1740323206 a7743cb] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323206' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323206        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323206 -> pull-shark-1740323206
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323206"
+error: cannot delete branch 'pull-shark-1740323206' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323215'
+[pull-shark-1740323215 605b5ea] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323215' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323215        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323215 -> pull-shark-1740323215
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323215"
+error: cannot delete branch 'pull-shark-1740323215' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323224'
+[pull-shark-1740323224 4c4cc93] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323224' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323224        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323224 -> pull-shark-1740323224
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323224"
+error: cannot delete branch 'pull-shark-1740323224' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323233'
+[pull-shark-1740323233 41a4df1] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323233' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323233        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323233 -> pull-shark-1740323233
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323233"
+error: cannot delete branch 'pull-shark-1740323233' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323243'
+[pull-shark-1740323243 4d13232] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323243' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323243        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323243 -> pull-shark-1740323243
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323243"
+error: cannot delete branch 'pull-shark-1740323243' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323252'
+[pull-shark-1740323252 d16ac77] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323252' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323252        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323252 -> pull-shark-1740323252
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323252"
+error: cannot delete branch 'pull-shark-1740323252' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323261'
+[pull-shark-1740323261 30439f5] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323261' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323261        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323261 -> pull-shark-1740323261
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323261"
+error: cannot delete branch 'pull-shark-1740323261' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323271'
+[pull-shark-1740323271 7e9f865] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323271' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323271        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323271 -> pull-shark-1740323271
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323271"
+error: cannot delete branch 'pull-shark-1740323271' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323280'
+[pull-shark-1740323280 4a06c7b] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323280' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323280        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323280 -> pull-shark-1740323280
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323280"
+error: cannot delete branch 'pull-shark-1740323280' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323289'
+[pull-shark-1740323289 b5bc121] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323289' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323289        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323289 -> pull-shark-1740323289
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323289"
+error: cannot delete branch 'pull-shark-1740323289' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323299'
+[pull-shark-1740323299 21a1f77] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323299' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323299        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323299 -> pull-shark-1740323299
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323299"
+error: cannot delete branch 'pull-shark-1740323299' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323308'
+[pull-shark-1740323308 9966ada] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323308' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323308        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323308 -> pull-shark-1740323308
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323308"
+error: cannot delete branch 'pull-shark-1740323308' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323317'
+[pull-shark-1740323317 5a3a496] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323317' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323317        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323317 -> pull-shark-1740323317
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323317"
+error: cannot delete branch 'pull-shark-1740323317' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323326'
+[pull-shark-1740323326 91458c6] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323326' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323326        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323326 -> pull-shark-1740323326
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323326"
+error: cannot delete branch 'pull-shark-1740323326' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323336'
+[pull-shark-1740323336 a27a5f4] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323336' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323336        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323336 -> pull-shark-1740323336
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323336"
+error: cannot delete branch 'pull-shark-1740323336' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323345'
+[pull-shark-1740323345 ae15a94] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323345' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323345        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323345 -> pull-shark-1740323345
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323345"
+error: cannot delete branch 'pull-shark-1740323345' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323355'
+[pull-shark-1740323355 5c6e8d7] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323355' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323355        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323355 -> pull-shark-1740323355
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323355"
+error: cannot delete branch 'pull-shark-1740323355' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323364'
+[pull-shark-1740323364 d86d775] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323364' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323364        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323364 -> pull-shark-1740323364
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323364"
+error: cannot delete branch 'pull-shark-1740323364' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323373'
+[pull-shark-1740323373 c7e1549] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323373' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323373        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323373 -> pull-shark-1740323373
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323373"
+error: cannot delete branch 'pull-shark-1740323373' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323382'
+[pull-shark-1740323382 6f3a4b3] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323382' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323382        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323382 -> pull-shark-1740323382
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323382"
+error: cannot delete branch 'pull-shark-1740323382' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323392'
+[pull-shark-1740323392 cff5d23] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323392' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323392        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323392 -> pull-shark-1740323392
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323392"
+error: cannot delete branch 'pull-shark-1740323392' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323401'
+[pull-shark-1740323401 3e67e22] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323401' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323401        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323401 -> pull-shark-1740323401
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323401"
+error: cannot delete branch 'pull-shark-1740323401' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323411'
+[pull-shark-1740323411 c2d1039] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323411' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323411        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323411 -> pull-shark-1740323411
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323411"
+error: cannot delete branch 'pull-shark-1740323411' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323421'
+[pull-shark-1740323421 dbb5597] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323421' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323421        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323421 -> pull-shark-1740323421
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323421"
+error: cannot delete branch 'pull-shark-1740323421' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323430'
+[pull-shark-1740323430 c2834fd] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323430' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323430        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323430 -> pull-shark-1740323430
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323430"
+error: cannot delete branch 'pull-shark-1740323430' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323439'
+[pull-shark-1740323439 197b4ef] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323439' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323439        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323439 -> pull-shark-1740323439
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323439"
+error: cannot delete branch 'pull-shark-1740323439' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323449'
+[pull-shark-1740323449 83e04ce] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323449' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323449        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323449 -> pull-shark-1740323449
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323449"
+error: cannot delete branch 'pull-shark-1740323449' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323458'
+[pull-shark-1740323458 6ab7aa3] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323458' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323458        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323458 -> pull-shark-1740323458
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323458"
+error: cannot delete branch 'pull-shark-1740323458' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323468'
+[pull-shark-1740323468 3ad0368] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323468' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323468        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323468 -> pull-shark-1740323468
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323468"
+error: cannot delete branch 'pull-shark-1740323468' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323477'
+[pull-shark-1740323477 eb4d7f1] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323477' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323477        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323477 -> pull-shark-1740323477
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323477"
+error: cannot delete branch 'pull-shark-1740323477' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323486'
+[pull-shark-1740323486 014cf5e] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323486' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323486        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323486 -> pull-shark-1740323486
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323486"
+error: cannot delete branch 'pull-shark-1740323486' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323495'
+[pull-shark-1740323495 d770087] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323495' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323495        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323495 -> pull-shark-1740323495
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323495"
+error: cannot delete branch 'pull-shark-1740323495' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323505'
+[pull-shark-1740323505 932ee65] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323505' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323505        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323505 -> pull-shark-1740323505
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323505"
+error: cannot delete branch 'pull-shark-1740323505' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323514'
+[pull-shark-1740323514 cce6b72] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323514' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323514        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323514 -> pull-shark-1740323514
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323514"
+error: cannot delete branch 'pull-shark-1740323514' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323523'
+[pull-shark-1740323523 97d2ad4] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323523' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323523        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323523 -> pull-shark-1740323523
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323523"
+error: cannot delete branch 'pull-shark-1740323523' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323533'
+[pull-shark-1740323533 21781d6] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323533' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323533        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323533 -> pull-shark-1740323533
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323533"
+error: cannot delete branch 'pull-shark-1740323533' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323542'
+[pull-shark-1740323542 dc44f82] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323542' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323542        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323542 -> pull-shark-1740323542
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323542"
+error: cannot delete branch 'pull-shark-1740323542' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323551'
+[pull-shark-1740323551 a3fd58b] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323551' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323551        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323551 -> pull-shark-1740323551
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323551"
+error: cannot delete branch 'pull-shark-1740323551' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323561'
+[pull-shark-1740323561 68554f1] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323561' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323561        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323561 -> pull-shark-1740323561
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323561"
+error: cannot delete branch 'pull-shark-1740323561' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323570'
+[pull-shark-1740323570 dbbbff1] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323570' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323570        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323570 -> pull-shark-1740323570
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323570"
+error: cannot delete branch 'pull-shark-1740323570' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323579'
+[pull-shark-1740323579 53d5ca9] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323579' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323579        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323579 -> pull-shark-1740323579
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323579"
+error: cannot delete branch 'pull-shark-1740323579' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323589'
+[pull-shark-1740323589 ba35821] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323589' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323589        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323589 -> pull-shark-1740323589
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323589"
+error: cannot delete branch 'pull-shark-1740323589' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323598'
+[pull-shark-1740323598 ebf92d4] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323598' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323598        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323598 -> pull-shark-1740323598
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323598"
+error: cannot delete branch 'pull-shark-1740323598' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323608'
+[pull-shark-1740323608 9903f41] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323608' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323608        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323608 -> pull-shark-1740323608
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323608"
+error: cannot delete branch 'pull-shark-1740323608' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323617'
+[pull-shark-1740323617 2fa461d] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323617' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323617        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323617 -> pull-shark-1740323617
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323617"
+error: cannot delete branch 'pull-shark-1740323617' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323626'
+[pull-shark-1740323626 e085064] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323626' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323626        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323626 -> pull-shark-1740323626
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323626"
+error: cannot delete branch 'pull-shark-1740323626' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323635'
+[pull-shark-1740323635 cfd809d] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323635' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323635        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323635 -> pull-shark-1740323635
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323635"
+error: cannot delete branch 'pull-shark-1740323635' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323645'
+[pull-shark-1740323645 9212cd7] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323645' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323645        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323645 -> pull-shark-1740323645
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323645"
+error: cannot delete branch 'pull-shark-1740323645' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323654'
+[pull-shark-1740323654 4e0994c] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323654' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323654        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323654 -> pull-shark-1740323654
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323654"
+error: cannot delete branch 'pull-shark-1740323654' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323663'
+[pull-shark-1740323663 a4e0f8b] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323663' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323663        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323663 -> pull-shark-1740323663
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323663"
+error: cannot delete branch 'pull-shark-1740323663' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Switched to a new branch 'pull-shark-1740323673'
+[pull-shark-1740323673 4abaedd] Automated PR for Pull Shark badge
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: 
+remote: Create a pull request for 'pull-shark-1740323673' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/ptr/pull/new/pull-shark-1740323673        
+remote: 
+To https://github.com/Weirdo-147/ptr
+ * [new branch]      pull-shark-1740323673 -> pull-shark-1740323673
+unknown flag: --json
+
+Usage:  gh pr create [flags]
+
+Flags:
+  -a, --assignee login       Assign people by their login. Use "@me" to self-assign.
+  -B, --base branch          The branch into which you want your code merged
+  -b, --body string          Body for the pull request
+  -F, --body-file file       Read body text from file (use "-" to read from standard input)
+  -d, --draft                Mark pull request as a draft
+      --dry-run              Print details instead of creating the PR. May still push git changes.
+  -e, --editor               Skip prompts and open the text editor to write the title and body in. The first line is the title and the remaining text is the body.
+  -f, --fill                 Use commit info for title and body
+      --fill-first           Use first commit info for title and body
+      --fill-verbose         Use commits msg+body for description
+  -H, --head branch          The branch that contains commits for your pull request (default [current branch])
+  -l, --label name           Add labels by name
+  -m, --milestone name       Add the pull request to a milestone by name
+      --no-maintainer-edit   Disable maintainer's ability to modify pull request
+  -p, --project title        Add the pull request to projects by title
+      --recover string       Recover input from a failed run of create
+  -r, --reviewer handle      Request reviews from people or teams by their handle
+  -T, --template file        Template file to use as starting body text
+  -t, --title string         Title for the pull request
+  -w, --web                  Open the web browser to create a pull request
+  
+PR Created: 
+no pull requests found for branch "pull-shark-1740323673"
+error: cannot delete branch 'pull-shark-1740323673' used by worktree at '/workspaces/ptr'
+Cloning into 'ptr'...
+remote: Repository not found.
+fatal: repository 'https://github.com//workspaces/ptr.git/' not found
+./auto_pr_merge.sh: line 14: cd: ptr: No such file or directory
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/Weirdo-147/ptr
+ * branch            main       -> FETCH_HEAD
+Already up to date.
